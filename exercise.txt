@@ -1,0 +1,9 @@
+Exercice ToDo App Front
+www.nouvy.fr
+
+Objectif : Créer une application React permettant :
+d'ajouter des tâches, d'afficher la liste des tâches, de marquer une tâche comme complétée, et de supprimer une tâche.
+Technologies : React (via Vite) CSS Pas de backend, tout est en local (useState)
+Structure des fichiers :
+
+
